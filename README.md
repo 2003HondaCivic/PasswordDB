@@ -1,5 +1,6 @@
 # Password Database
 ## Lightweight, spyware free password manager.
+Please give me feedback, this is my first windows GUI Apllication!!
 Database
 ![Database](Screen/DB.PNG.jpg)
 Generate Passwords
