@@ -1,5 +1,5 @@
-## PasswordDB
-# Lightweight, spyware free password manager.
+# Password Database
+## Lightweight, spyware free password manager.
 Database
 ![Database](Screen/DB.PNG.jpg)
 Generate Passwords
